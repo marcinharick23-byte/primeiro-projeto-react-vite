@@ -22,6 +22,11 @@ Projeto desenvolvido durante o Bootcamp Santander 2026 da DIO.
 
 Personalizei a tela inicial do projeto com meu nome e uma mensagem de aprendizado.
 
+## Preview
+
+![Preview do Projeto](screenshot.png)
+
 ## Autora
 
 Marcia Cristina dos Santos
+
