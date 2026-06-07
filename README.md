@@ -24,7 +24,7 @@ Personalizei a tela inicial do projeto com meu nome e uma mensagem de aprendizad
 
 ## Preview
 
-![Preview do Projeto](screenshot.png)
+![Imagem do site em React](screenshot.png)
 
 ## Autora
 
